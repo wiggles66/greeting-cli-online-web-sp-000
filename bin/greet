@@ -2,7 +2,7 @@
 require_relative "../lib/greeting.rb"
 def name(name="name")
 
-puts "hi! I'm HAL, what's your name? exactly."
+puts "hi! I'm HAL, what's your name?"
 
 
 
